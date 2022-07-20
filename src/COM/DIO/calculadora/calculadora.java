@@ -1,3 +1,6 @@
+
+/* Solução = mudar todos os int por double*/
+
 package COM.DIO.calculadora;
 
 import java.util.Scanner;
